@@ -1,4 +1,4 @@
-## 欢迎来到野蛮智能的个人主页
+## 野蛮智能
 
 You can use the [editor on GitHub](https://github.com/savage-intelligence/savage-intelligence.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
